@@ -126,6 +126,16 @@ npm run dev
 </ul>
 
 ###
+<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/da8af608-e5ad-4a41-849e-a6be024d1070" />
+<img width="1905" height="831" alt="image" src="https://github.com/user-attachments/assets/97cbe49c-f967-4a77-a6f6-9f918fcddb8a" />
+<img width="1904" height="908" alt="image" src="https://github.com/user-attachments/assets/4d461543-b35e-4e1d-a19f-c38db1e1c1ef" />
+<img width="1905" height="843" alt="image" src="https://github.com/user-attachments/assets/4f06af46-d88c-4016-b309-9bacd88b52d1" />
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/448e5d18-8b1b-41d0-80a8-e54b877b7895" />
+<img width="1906" height="845" alt="image" src="https://github.com/user-attachments/assets/12cd1f2c-6357-4016-9a7e-086263b1d16c" />
+<img width="1907" height="607" alt="image" src="https://github.com/user-attachments/assets/cb737212-2239-41a6-864b-2f42b3bc4d5a" />
+
+
+###
 
 <div align="center">
   <p>Made with ❤️ for Rently</p>
